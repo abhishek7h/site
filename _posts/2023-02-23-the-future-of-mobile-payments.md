@@ -1,6 +1,6 @@
 ---
 title: The Future of Mobile Payments
-updted: 2023-02-23 19:11
+updated: 2023-02-23 19:11
 ---
 
 Our smartphones are something that we carry with us everywhere. We rarely find ourselves going somewhere without taking our phones. Our phones contain everything, from social media to a camera, phone calls to text messages, and then we have payments.
